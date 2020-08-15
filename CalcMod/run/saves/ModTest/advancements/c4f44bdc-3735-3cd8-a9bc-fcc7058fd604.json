@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-08-16 00:24:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-08-16 00:24:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2020-08-16 00:24:48 +0530",
+      "minecraft:birch_forest_hills": "2020-08-16 00:25:16 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}

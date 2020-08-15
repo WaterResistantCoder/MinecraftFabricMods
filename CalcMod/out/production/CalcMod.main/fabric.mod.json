@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "calcmod",
+  "version": "${version}",
+  "name": "CalcMod",
+  "description": "calculator mod",
+  "authors": [
+    "WaterResistantCoder"
+  ],
+  "contributors": [],
+  "contact": {
+    "homepage": "https://github.com/WaterResistantCoder"
+  },
+  "license": "unlicense",
+  "icon": "assets/calcmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "calc.calcmod"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.9.1",
+    "fabric": "*"
+  }
+}
