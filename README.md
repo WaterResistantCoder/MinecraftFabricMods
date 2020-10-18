@@ -1,2 +1,2 @@
-# MinecraftFabricMods
-Fabric mods for minecraft (currently Learning)
+# Minecraft Mods
+My Fabric and Forge mods for minecraft (currently in development)
